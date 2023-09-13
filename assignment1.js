@@ -96,8 +96,6 @@ const payload = JSON.stringify({
 
     travel_to: "Kolbu, Norway",
 
-
-
     type: "Single",
 
 
